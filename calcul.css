@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h3{
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+input {
+    border: 2px solid red;
+}
+#cetak {
+    text-decoration: none;
+}
+#cetak1 {
+    text-decoration: none;
+}
+
+#cetak2 {
+    text-decoration: none;
+}
+#cetak3 {
+    text-decoration: none;
+}
